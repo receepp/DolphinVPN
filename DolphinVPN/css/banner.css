@@ -1,0 +1,165 @@
+
+.banner {
+  width: 100%;
+  height: 470px;
+  margin-top: 90px;
+}
+.left {
+  float: left;
+  width: 50%;
+  height: 400px;
+  padding-left: 190px;
+  padding-top: 20px;
+}
+.left .banner-title {
+  color: var(--darkGrey);
+  font-size: 46px;
+  font-weight: 600;
+}
+.left .banner-title b {
+  color: var(--mainRed);
+}
+.left .banner-p {
+  font-size: 14px;
+  color: var(--lightGrey);
+  font-weight: 300;
+  margin-top: 30px;
+}
+.left .get-started {
+  background-color: rgb(245, 56, 56);
+  border-radius: 10px;
+  padding: 20px 80px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 100px;
+  box-shadow: #f53838 0px 30px 80px -10px, #f53838 0px 20px 60px -30px;
+}
+.right {
+  height: 400px;
+  float: right;
+  height: 400px;
+  width: 49%;
+}
+/** information **/
+
+.information {
+  width: 100%;
+  height: 350px;
+  position: relative;
+}
+.information .table {
+  background-color: var(--mainRed);
+  height: 200px;
+  width: 1100px;
+  border-radius: 15px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: #f53838 0px 30px 200px -50px;
+}
+.table .inf-left {
+  position: relative;
+  display: inline-block;
+  border-radius: 15px;
+  width: 32%;
+  height: 200px;
+}
+.inf-left img {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 110px;
+  top: 50%;
+}
+.inf-left h1 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 45%;
+  font-size: 25px;
+  color: white;
+}
+.inf-left p {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 59%;
+  font-size: 20px;
+  color: white;
+}
+.table .inf-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  border-radius: 15px;
+  width: 32%;
+  height: 200px;
+}
+.inf-center img {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 100px;
+  top: 50%;
+}
+.inf-center h1 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 45%;
+  font-size: 25px;
+  color: white;
+}
+.inf-center p {
+  position: absolute;
+  display: inline;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 59%;
+  font-size: 20px;
+  color: white;
+}
+.table .inf-right {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 84%;
+  top: 50%;
+  float: right;
+  border-radius: 15px;
+  width: 32%;
+  height: 200px;
+}
+.inf-right img {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 100px;
+  top: 50%;
+}
+.inf-right h1 {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 45%;
+  font-size: 25px;
+  color: white;
+}
+.inf-right p {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 180px;
+  top: 59%;
+  font-size: 20px;
+  color: white;
+}
+.vl {
+    border-left: 1px solid white;
+    height: 170px;
+    margin-bottom: 15px;
+    width: 3px;
+    display: inline-block;
+  }
+
+  

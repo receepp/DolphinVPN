@@ -1,0 +1,128 @@
+--card-select-button : hover
+
+--nav-link : hover açıklama
+
+
+<!--
+                <div class="choose-cards">
+                <div class="cards-image">
+                    <img src="assets/Icon/premium.svg" alt="">
+                </div>
+
+                <h1 class="card-title">Free Plan</h1>
+
+                <div class="cards-features">
+                <ul>
+                    <li>
+                        <img src="assets/Icon/Vector.svg" alt="">
+                        Unlimited Bandwitch
+                    </li>
+                    <li>
+                        <img src="assets/Icon/Vector.svg" alt="">
+                        Encrypted Connection
+                    </li>
+                    <li>
+                        <img src="assets/Icon/Vector.svg" alt="">
+                        No Traffic Logs
+                    </li>
+                    <li>
+                        <img src="assets/Icon/Vector.svg" alt="">
+                        Works on All Devices
+                    </li>
+                </ul>
+            </div>
+
+            <div class="card-price">
+                <b>Free</b>
+            </div>
+
+            <button class="card-select-button">Select</button>
+
+        </div>
+
+        <div class="choose-cards">
+            <div class="cards-image">
+                <img src="assets/Icon/premium.svg" alt="">
+            </div>
+
+            <h1 class="card-title">Standard Plan</h1>
+
+            <div class="cards-features">
+            <ul>
+                <li>
+                    <img src="assets/Icon/Vector.svg" alt="">
+                    Unlimited Bandwitch
+                </li>
+                <li>
+                    <img src="assets/Icon/Vector.svg" alt="">
+                    Encrypted Connection
+                </li>
+                <li>
+                    <img src="assets/Icon/Vector.svg" alt="">
+                    Yes Traffic Logs
+                    
+                </li>
+                <li>
+                    <img src="assets/Icon/Vector.svg" alt="">
+                    Works on All Devices
+                </li>
+                <li>
+                    <img src="assets/Icon/Vector.svg" alt="">
+                    Connect Anyware
+                </li>
+            </ul>
+        </div>
+
+        <div class="card-price">
+            <b>$9 <h1>/ mo</b>
+        </div>
+
+        <button class="card-select-button">Select</button>
+
+    </div>
+
+    <div class="choose-cards">
+        <div class="cards-image">
+            <img src="assets/Icon/premium.svg" alt="">
+        </div>
+
+        <h1 class="card-title">Premium Plan</h1>
+
+        <div class="cards-features">
+        <ul>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Unlimited Bandwitch
+            </li>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Encrypted Connection
+            </li>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Yes Traffic Logs
+            </li>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Works on All Devices
+            </li>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Connect Anyware
+            </li>
+            <li>
+                <img src="assets/Icon/Vector.svg" alt="">
+                Get New Features
+            </li>
+        </ul>
+    </div>
+
+    <div class="card-price">
+        <b>Free</b>
+    </div>
+
+    <button class="card-select-button">Select</button>
+
+</div>
+    
+-->
